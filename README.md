@@ -6,4 +6,4 @@ Calculadora para calcular a média aritmética. Primeira aula da imersão dev (v
 - HTML nada modificado;
 - CSS modificado;
 - Código JS criado como foi pedido;
-- Adicionado também a atividade de conversão de temperaturas.
+- Adicionado também a atividade de conversão de temperaturas (O código criado foi algo básico, de C° para F° e C° para K°).
